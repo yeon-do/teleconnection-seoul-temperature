@@ -1,0 +1,1 @@
+# teleconnection-seoul-temperature
